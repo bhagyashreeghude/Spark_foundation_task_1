@@ -5,14 +5,12 @@ Welcome to the Supervised Learning Model project! This repository contains code 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Data](#data)
 - [Model](#model)
 - [Evaluation](#evaluation)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
